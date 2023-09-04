@@ -38,6 +38,9 @@ section >header {
     position: fixed;
     background-position: center;
 }
+body {
+    font-size: medium;
+}
 main {
     text-align: justify;
     padding-top: 30px;

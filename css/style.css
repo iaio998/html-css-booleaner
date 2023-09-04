@@ -38,3 +38,20 @@ section >header {
     position: fixed;
     background-position: center;
 }
+main {
+    text-align: justify;
+    padding-top: 30px;
+}
+article {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+#evidenziato {
+    background-color: yellow;
+}
+table {
+    padding-top: 15px;
+    text-align: justify;
+    width: 100%;
+
+}

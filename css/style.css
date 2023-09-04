@@ -41,10 +41,13 @@ section >header {
     background-position: center;
 }
 body {
+    text-align: justify;
     font-size: medium;
 }
+div {
+    
+}
 main {
-    text-align: justify;
     padding-top: 30px;
 }
 article {

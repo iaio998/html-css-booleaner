@@ -1,0 +1,80 @@
+#head {
+    width: 100%;
+    height: 150px;
+    background-image: url(../img/pattern.png);
+    background-position-y: 10%;
+    background-position-x: 10%;
+    background-color: #4ea0ff;
+}
+.logo {
+    width: 15%;
+    padding-top: 3.5%;
+    padding-left: 90px;
+}
+#main-container {
+    /* Modify for plus */
+    width: 90%;
+    position: absolute; 
+    left: 5%;
+    /* Modify for plus */
+    text-align: justify;
+    font-weight: 800;
+}
+h1 {
+    width: 85%;
+    font-size: 62px;
+    margin-bottom: 0;
+}
+.more {
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: rgba(0, 0, 0, 0.24);
+    font-size: x-large;
+}
+.author {
+    color: #6cc5ed;
+}
+.data {
+    font-size: 15px;
+    position: relative;
+    bottom: 8px;
+}
+.parent {
+    margin: 0;
+    padding: 0;
+    /* Modify for + */
+    text-align: left;
+    /* Modify for + */
+  }
+  article {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  #evidence {
+    background-color: yellow;
+  }
+  h2 {
+    color: #aaaaaa;
+    font-size: 20px;
+
+}
+h3 {
+    font-size: 25px;
+    position: relative;
+    left: 15px;
+    top: 13px;
+}
+#first-link {
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    width: 311px;
+    height: 208px;
+}
+#second-link {
+    color: white;
+    width: 311px;
+    height: 208px;
+    background-image: url(../img/graph.jpg);
+    margin-bottom: 15px;
+}
+  

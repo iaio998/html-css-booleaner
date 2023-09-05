@@ -9,13 +9,13 @@
 .logo {
     width: 15%;
     padding-top: 3.5%;
-    padding-left: 90px;
+    padding-left: 180px;
 }
 #main-container {
     /* Modify for plus */
-    width: 90%;
+    width: 80%;
     position: absolute; 
-    left: 5%;
+    left: 10%;
     /* Modify for plus */
     text-align: justify;
     font-weight: 800;
